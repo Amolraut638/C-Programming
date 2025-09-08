@@ -1,0 +1,1 @@
+//write a c program to copy one string to another char array 
