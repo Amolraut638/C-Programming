@@ -80,12 +80,14 @@ int main()
 
     case 5:
       printf("Thank you !");
-      exit(0); // exit-program end      return-function end
+      exit(0); // exit-program end return-function end
 
     default:
       printf("Invalid choice !\n");
     }
   }
+
+  printf("Outside while");
   return 0;
 }
 
